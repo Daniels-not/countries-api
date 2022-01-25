@@ -1,6 +1,5 @@
 # Country API 🔥
-![index](https://github.com/Daniels-not/pokemon-list/blob/main/filter.PNG)
-![router](https://github.com/Daniels-not/pokemon-list/blob/main/get-pokemon.PNG)
+![index](https://github.com/Daniels-not/countries-api/blob/master/preview.PNG)
 
 ## Functionalities ✨
 
